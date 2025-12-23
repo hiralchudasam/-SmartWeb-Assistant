@@ -1,0 +1,15 @@
+streamlit
+PyPDF2
+langchain
+sentence-transformers
+chromadb
+cohere
+torch
+transformers
+docx
+olefile
+pdf2image
+easyocr
+numpy
+tk
+python-dotenv
