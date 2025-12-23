@@ -1,0 +1,11 @@
+streamlit
+requests
+beautifulsoup4
+html2text
+torch
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+python-dotenv
+qdrant-client
